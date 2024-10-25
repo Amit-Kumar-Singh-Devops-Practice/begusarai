@@ -1,0 +1,4 @@
+district average income
+income tax
+status
+
