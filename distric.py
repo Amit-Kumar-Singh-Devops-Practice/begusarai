@@ -1,0 +1,4 @@
+begusarai
+population
+literacy
+
